@@ -1,4 +1,4 @@
-# defense_vae
+# Defense-VAE
 This repository contains the implementation of our [paper](https://arxiv.org/abs/1812.06570).
 
 ## Dependences
