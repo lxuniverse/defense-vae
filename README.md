@@ -42,7 +42,7 @@ Python 2.7, Pytorch, Tensorflow 1.7, Cleverhans 2.1.0
 
 If you found this paper useful, please cite our paper
     
-    @article{li2018defense,
+    @article{defense-vae18,
       title={Defense-VAE: A Fast and Accurate Defense against Adversarial Attacks},
       author={Xiang Li and Shihao Ji},
       journal={arXiv preprint arXiv:1812.06570},
