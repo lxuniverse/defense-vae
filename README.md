@@ -34,7 +34,7 @@ Python 2.7, Pytorch, Tensorflow 1.7, Cleverhans 2.1.0
         * --cnn_model_bb: 1 ~ 4, choose the model to be attacked, which corresponds to model a~d. See the paper for details.
         * --cnn_model_sub: 1 or 2 corresponding to model b or e. See the paper for details.
 
-* The final results will be written in results.txt in the white_box and black_box folders. The attack index 1,2,3 corresponds to the FGSM, RANDFGSM and CW attack.
+* The final results will be written into results.txt in the white_box and black_box folders. The attack index 1,2,3 corresponds to the FGSM, RANDFGSM and CW attack.
 
 * Please run the black-box experiments after the white-box experiments because the black-box experiments need the VAE models trained in the white-box experiments. 
 
