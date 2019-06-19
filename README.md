@@ -1,5 +1,5 @@
 # Defense-VAE
-This repository contains the implementation of our [paper](https://arxiv.org/abs/1812.06570).
+This repository contains the implementation of [defense-vae](https://arxiv.org/abs/1812.06570).
 
 ## Dependences
 Python 2.7, Pytorch, Tensorflow 1.7, Cleverhans 2.1.0
@@ -17,7 +17,7 @@ Python 2.7, Pytorch, Tensorflow 1.7, Cleverhans 2.1.0
 
 * Download the datasets with:
     * cd data
-    * sh data/download_datasets.sh
+    * sh download_datasets.sh
 
 * For the white-box defense, please run:
     * cd white_box
@@ -40,11 +40,11 @@ Python 2.7, Pytorch, Tensorflow 1.7, Cleverhans 2.1.0
 
 ## Citations
 
-Please cite our paper if it helps you:
+If you found this paper useful, please cite our paper
     
     @article{li2018defense,
       title={Defense-VAE: A Fast and Accurate Defense against Adversarial Attacks},
-      author={Li, Xiang and Ji, Shihao},
+      author={Xiang Li and Shihao Ji},
       journal={arXiv preprint arXiv:1812.06570},
       year={2018}
     }
