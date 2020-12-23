@@ -42,11 +42,13 @@ Python 2.7, Pytorch, Tensorflow 1.7, Cleverhans 2.1.0
 
 If you found this paper useful, please cite it.
     
-    @article{defense-vae18,
-      title={Defense-VAE: A Fast and Accurate Defense against Adversarial Attacks},
-      author={Xiang Li and Shihao Ji},
-      journal={arXiv preprint arXiv:1812.06570},
-      year={2018}
+    @inproceedings{defense-vae19,
+      title     = {Defense-VAE: A Fast and Accurate Defense Against Adversarial Attacks},
+      author    = {Xiang Li and Shihao Ji},
+      booktitle = {Joint European Conference on Machine Learning and Knowledge Discovery in Databases},
+      publisher = {Springer},
+      pages     = {191--207},
+      year      = {2019}
     }
 
 ## Contacts
