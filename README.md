@@ -38,7 +38,7 @@ Python 2.7, Pytorch, Tensorflow 1.7, Cleverhans 2.1.0
 
 * Please run the black-box experiments after the white-box experiments because the black-box experiments need the VAE models trained in the white-box experiments. 
 
-## Citations
+## Citation
 
 If you found this paper useful, please cite it.
     
@@ -51,7 +51,7 @@ If you found this paper useful, please cite it.
       year      = {2019}
     }
 
-## Contacts
+## Contact
 
 Xiang Li, xli62@student.gsu.edu
 
